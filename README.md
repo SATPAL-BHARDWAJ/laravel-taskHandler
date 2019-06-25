@@ -4,13 +4,13 @@ Read Me: Laravel 5.8 first project
 
 # Overview
 This tutorial will teach you to create your first Laravel project. So, I am going to take a demo project that is TaskHandler in which we can add, update, list and remove the task.
-If you are new to Laravel, please checkout my blog https://sbsharma.com/laravel
+If you are new to Laravel, please checkout <br>my blog https://sbsharma.com/laravel
 
 # Configuring the project
 Let’s follow these steps given below:
 1.	Before working with this project please make sure that you have git installed in your system.
 2.	If you are working on Ubuntu or you have git Bash installed in your system then go to the directory where you want to install the project then run the following command: <br>
-    <code>git clone https://github.com/SATPAL-BHARDWAJ/laravel</code>
+    <code>git clone https://github.com/SATPAL-BHARDWAJ/laravel-taskHandler</code>
 3.	Otherwise, you can <code>cd</code> to the required directory and then run the above command.
 4.	After cloning the project <br>
 a.	Change .env.example to .env located in the root directory <br>
