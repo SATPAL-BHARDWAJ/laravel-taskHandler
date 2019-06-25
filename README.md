@@ -14,7 +14,7 @@ Let’s follow these steps given below:
 3.	Otherwise, you can <code>cd</code> to the required directory and then run the above command.
 4.	After cloning the project <br>
 a.	Change .env.example to .env located in the root directory <br>
-b.	If you are working on Windows you will get through the error when trying to rename the .env file because Windows never allow you to save the file without a name.<br>
+b.	If you are working on Windows you will get through an error when trying to rename the .env file because Windows never allow you to save the file without a name.<br>
 c.	You can do this with a code editor, open your code editor create a file and paste the code from .env.example and then save it as .env by choosing to save type All Files.<br>
 d.	Go to the phpMyAdmin and create a database <br>
 e.	Now Configure the database <br>
